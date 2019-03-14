@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "web-shop",
+    "libraryId": "04956b74-e07e-4f8b-8c49-2c278d0070b5",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
